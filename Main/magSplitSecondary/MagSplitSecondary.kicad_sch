@@ -1,0 +1,1124 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "8ff9faf9-7f07-4932-94fa-45dc2900873d")
+	(paper "A3")
+	(lib_symbols)
+	(text "/SCL: J4.2, U1.6"
+		(exclude_from_sim no)
+		(at 220 61 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "0029aff7-1d9f-4024-b9c4-cfaf17b316e2")
+	)
+	(text "D22 [D_Small]  1:/ROW4  2:Net-(D22-A)"
+		(exclude_from_sim no)
+		(at 15 88 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "010d55ff-91a0-4ac3-a013-26a111954604")
+	)
+	(text "SW20 [SW_Push_45deg]  1:/COL2  2:Net-(D23-A)"
+		(exclude_from_sim no)
+		(at 15 169 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "01930cd9-d081-416e-ad07-8f87f5612aaa")
+	)
+	(text "VCC: J3.S, J4.3, U1.21"
+		(exclude_from_sim no)
+		(at 220 154 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "03521e64-9465-481d-b327-53ed20d856ef")
+	)
+	(text "/ROW5: D25.1, D26.1, D27.1, U1.12"
+		(exclude_from_sim no)
+		(at 220 58 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "052899d9-f382-4c4c-9f78-9454b95d6992")
+	)
+	(text "D24 [D_Small]  1:/ROW4  2:Net-(D24-A)"
+		(exclude_from_sim no)
+		(at 15 94 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "0953d1dd-cc2d-4696-a364-bedf5c9cbd24")
+	)
+	(text "S11 [SW_Push_45deg]  1:/COL5  2:Net-(D8-A)"
+		(exclude_from_sim no)
+		(at 15 142 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "0d71a6fb-217b-4de7-8c30-b41fbe89adcd")
+	)
+	(text "/ROW4: D19.1, D20.1, D21.1, D22.1, D23.1, D24.1, U1.11"
+		(exclude_from_sim no)
+		(at 220 55 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "0d9586eb-2d69-4e77-a392-cc998021e5ef")
+	)
+	(text "unconnected-(U1-D10{slash}A10(PB6)-Pad13): U1.13"
+		(exclude_from_sim no)
+		(at 220 157 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "0daf3052-bfae-4c0c-b570-a4c36575f6c4")
+	)
+	(text "Net-(D3-A): D3.2, SW3.2"
+		(exclude_from_sim no)
+		(at 220 133 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "104f37d3-0463-42cf-9cba-f71ec81510d9")
+	)
+	(text "unconnected-(U1-RX-Pad2): U1.2"
+		(exclude_from_sim no)
+		(at 220 166 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "1086f33d-fd4f-468d-a640-854e96c63a18")
+	)
+	(text "SW19 [SW_Push_45deg]  1:/COL1  2:Net-(D24-A)"
+		(exclude_from_sim no)
+		(at 15 166 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "1165a3fe-6474-4594-a73a-ac2a25548229")
+	)
+	(text "Net-(D2-A): D2.2, SW2.2"
+		(exclude_from_sim no)
+		(at 220 106 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "1370d9f3-c8b9-4ceb-a65f-77a9cdbb447a")
+	)
+	(text "D9 [D_Small]  1:/ROW2  2:Net-(D9-A)"
+		(exclude_from_sim no)
+		(at 15 49 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "16b7484e-f2ef-40cb-939c-16fa363587b0")
+	)
+	(text "/DETECT: U1.14"
+		(exclude_from_sim no)
+		(at 220 43 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "1b886ea2-d2d9-4f19-9475-3ec5e55836a3")
+	)
+	(text "SW24 [SW_Push_45deg]  1:/COL6  2:Net-(D19-A)"
+		(exclude_from_sim no)
+		(at 15 181 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "1cd9ccf3-d4ae-415d-97bc-cfbc902719e3")
+	)
+	(text "D8 [D_Small]  1:/ROW2  2:Net-(D8-A)"
+		(exclude_from_sim no)
+		(at 15 46 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "1d2f4785-0e88-41c1-8784-e62186aea3ab")
+	)
+	(text "SW14 [SW_Push_45deg]  1:/COL2  2:Net-(D14-A)"
+		(exclude_from_sim no)
+		(at 15 151 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "1f42e879-0ca2-48e3-b2dc-9cdcec9ee7c2")
+	)
+	(text "SW9 [SW_Push_45deg]  1:/COL3  2:Net-(D10-A)"
+		(exclude_from_sim no)
+		(at 15 136 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "20a76067-6191-41a9-a023-b3923791292f")
+	)
+	(text "unconnected-(U1-TX-Pad1): U1.1"
+		(exclude_from_sim no)
+		(at 220 169 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "20badf0f-a3ea-48a9-ba1c-bb40ac4123d8")
+	)
+	(text "COMPONENT PAD MAP"
+		(exclude_from_sim no)
+		(at 15 20 0)
+		(effects
+			(font
+				(size 1.1 1.1)
+			)
+		)
+		(uuid "2d174d72-6969-416a-a149-73455419e561")
+	)
+	(text "D23 [D_Small]  1:/ROW4  2:Net-(D23-A)"
+		(exclude_from_sim no)
+		(at 15 91 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "32c51ad3-2909-4eb3-ac04-01a6a806ebd6")
+	)
+	(text "SW12 [SW_Push_45deg]  1:/COL6  2:Net-(D7-A)"
+		(exclude_from_sim no)
+		(at 15 145 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "34124c33-cc2b-4699-b5a0-a0fbb5784be3")
+	)
+	(text "SW15 [SW_Push_45deg]  1:/COL3  2:Net-(D15-A)"
+		(exclude_from_sim no)
+		(at 15 154 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "35d7dc72-14a2-4b1c-ba93-70a87154e09a")
+	)
+	(text "U1 [ProMicro]  1:unconnected-(U1-TX-Pad1)  2:unconnected-(U1-RX-Pad2)  3:GND  4:GND  5:/SDA  6:/SCL  7:/ROW1  8:/ROW2  9:/ROW3  10:/SERIAL_TX  11:/ROW4  12:/ROW5  13:unconnected-(U1-D10{slash}A10(PB6)-Pad13)  14:/DETECT  15:/COL1  16:/COL2  17:/COL3  18:/COL4  19:/COL5  20:/COL6  21:VCC  22:unconnected-(U1-RST-Pad22)  23:GND  24:unconnected-(U1-RAW-Pad24)"
+		(exclude_from_sim no)
+		(at 15 193 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "3de70c1c-b408-4c38-913d-e6ed6663dac5")
+	)
+	(text "Net-(D16-A): D16.2, SW16.2"
+		(exclude_from_sim no)
+		(at 220 94 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "40b2ce3e-05c2-461b-ae82-2c7ab3fc8b29")
+	)
+	(text "Net-(D13-A): D13.2, SW13.2"
+		(exclude_from_sim no)
+		(at 220 85 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "4354a856-77b4-4959-833f-0e457319c6db")
+	)
+	(text "Net-(D25-A): D25.2, SW25.2"
+		(exclude_from_sim no)
+		(at 220 124 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "45894af8-91f8-404c-bb83-6417b9c64b87")
+	)
+	(text "Net-(D1-A): D1.2, SW1.2"
+		(exclude_from_sim no)
+		(at 220 73 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "470afe98-ee9c-4798-9fdc-c04d226a39b6")
+	)
+	(text "D19 [D_Small]  1:/ROW4  2:Net-(D19-A)"
+		(exclude_from_sim no)
+		(at 15 79 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "487f4c06-447b-4205-b3ff-5a606e1161fe")
+	)
+	(text "D21 [D_Small]  1:/ROW4  2:Net-(D21-A)"
+		(exclude_from_sim no)
+		(at 15 85 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "4c2f56bc-9141-43ab-8164-9f3534e5c46c")
+	)
+	(text "Net-(D26-A): D26.2, SW26.2"
+		(exclude_from_sim no)
+		(at 220 127 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "4fe41122-a4af-4204-853d-027efa9f7395")
+	)
+	(text "NET CONNECTIONS"
+		(exclude_from_sim no)
+		(at 220 20 0)
+		(effects
+			(font
+				(size 1.1 1.1)
+			)
+		)
+		(uuid "50abd8a5-bf2a-44ae-b048-cd8861e23ece")
+	)
+	(text "/SDA: J4.1, U1.5"
+		(exclude_from_sim no)
+		(at 220 64 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "512966f1-e241-4653-8981-540614cc9f9b")
+	)
+	(text "MagSplitSecondary — PCB-derived connectivity reconstruction"
+		(exclude_from_sim no)
+		(at 15 12 0)
+		(effects
+			(font
+				(size 1.5 1.5)
+			)
+		)
+		(uuid "52bcaeb7-9625-46d9-b67a-ce52f60bf4d0")
+	)
+	(text "Net-(D22-A): D22.2, SW21.2"
+		(exclude_from_sim no)
+		(at 220 115 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "5457e478-c712-4741-b9c7-9e7893403e23")
+	)
+	(text "SW25 [SW_Push_45deg]  1:/COL1  2:Net-(D25-A)"
+		(exclude_from_sim no)
+		(at 15 184 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "558c4814-2f29-41c7-ae96-3a31a844b001")
+	)
+	(text "/COL4: SW10.1, SW16.1, SW22.1, SW4.1, U1.18"
+		(exclude_from_sim no)
+		(at 220 34 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "55c6f7d2-8f67-4a25-bd70-a3593ef069f0")
+	)
+	(text "SW5 [SW_Push_45deg]  1:/COL5  2:Net-(D5-A)"
+		(exclude_from_sim no)
+		(at 15 124 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "5829396d-cbf4-4548-87c6-f10b43168d66")
+	)
+	(text "D6 [D_Small]  1:/ROW1  2:Net-(D6-A)"
+		(exclude_from_sim no)
+		(at 15 40 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "59ea341a-17d2-4a6f-bff8-8c5c650b4158")
+	)
+	(text "/COL6: SW12.1, SW18.1, SW24.1, SW6.1, U1.20"
+		(exclude_from_sim no)
+		(at 220 40 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "6062e238-3b42-47a5-8f0d-d2010efc5ba1")
+	)
+	(text "/ROW1: D1.1, D2.1, D3.1, D4.1, D5.1, D6.1, U1.7"
+		(exclude_from_sim no)
+		(at 220 46 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "645fe8be-8b0c-4881-a168-b0e570e0e1f1")
+	)
+	(text "Net-(D20-A): D20.2, SW23.2"
+		(exclude_from_sim no)
+		(at 220 109 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "6488085f-aa87-46b3-b23c-da7f87194302")
+	)
+	(text "Net-(D15-A): D15.2, SW15.2"
+		(exclude_from_sim no)
+		(at 220 91 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "65d4d2fc-43c6-4333-a1dd-3fe26c30aa9c")
+	)
+	(text "Net-(D17-A): D17.2, SW17.2"
+		(exclude_from_sim no)
+		(at 220 97 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "65e9b9dd-2ba0-4244-a0dc-9ff5bafc7c2d")
+	)
+	(text "D27 [D_Small]  1:/ROW5  2:Net-(D27-A)"
+		(exclude_from_sim no)
+		(at 15 103 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "665faeb9-6eb4-4a63-8c11-4e0cb209e772")
+	)
+	(text "Net-(D27-A): D27.2, SW27.2"
+		(exclude_from_sim no)
+		(at 220 130 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "6bcb54be-e62c-4602-b0e1-8154c94cb74a")
+	)
+	(text "SW23 [SW_Push_45deg]  1:/COL5  2:Net-(D20-A)"
+		(exclude_from_sim no)
+		(at 15 178 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "70a86934-bb57-43e6-a773-bf67fb87f98e")
+	)
+	(text "Net-(D11-A): D11.2, SW8.2"
+		(exclude_from_sim no)
+		(at 220 79 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "70d24350-a530-42c3-8e2f-98ad21148df3")
+	)
+	(text "SW4 [SW_Push_45deg]  1:/COL4  2:Net-(D4-A)"
+		(exclude_from_sim no)
+		(at 15 121 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "7550275a-d676-4094-bffa-5726d67ce015")
+	)
+	(text "D11 [D_Small]  1:/ROW2  2:Net-(D11-A)"
+		(exclude_from_sim no)
+		(at 15 55 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "7b33015d-8a27-46e4-a1d2-37bae49b2347")
+	)
+	(text "D12 [D_Small]  1:/ROW2  2:Net-(D12-A)"
+		(exclude_from_sim no)
+		(at 15 58 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "826aaf35-29fd-4b82-8cef-4e44031d68da")
+	)
+	(text "SW21 [SW_Push_45deg]  1:/COL3  2:Net-(D22-A)"
+		(exclude_from_sim no)
+		(at 15 172 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "85c73123-244f-42e8-af65-52483f500ad2")
+	)
+	(text "Net-(D19-A): D19.2, SW24.2"
+		(exclude_from_sim no)
+		(at 220 103 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "865bfd46-8f7e-4ac8-bf66-890d379e1b8c")
+	)
+	(text "/COL3: SW15.1, SW21.1, SW27.1, SW3.1, SW9.1, U1.17"
+		(exclude_from_sim no)
+		(at 220 31 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "871d18b8-2a05-4438-a138-fb94c67acf2c")
+	)
+	(text "SW17 [SW_Push_45deg]  1:/COL5  2:Net-(D17-A)"
+		(exclude_from_sim no)
+		(at 15 160 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "88f02c88-ac31-4ffa-aefb-12e95055020c")
+	)
+	(text "/COL5: S11.1, SW17.1, SW23.1, SW5.1, U1.19"
+		(exclude_from_sim no)
+		(at 220 37 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "8b7bc225-2b3a-4bc9-b588-e17904c6b610")
+	)
+	(text "SW7 [SW_Push_45deg]  1:/COL1  2:Net-(D12-A)"
+		(exclude_from_sim no)
+		(at 15 130 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "8c7d59a5-ac00-49e7-9ef4-76ff4200400c")
+	)
+	(text "Net-(D10-A): D10.2, SW9.2"
+		(exclude_from_sim no)
+		(at 220 76 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "8ccdb4cf-3f5a-4dbf-a740-03844414fde0")
+	)
+	(text "SW16 [SW_Push_45deg]  1:/COL4  2:Net-(D16-A)"
+		(exclude_from_sim no)
+		(at 15 157 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "8deec573-bb83-4c0c-a276-68df5ae7dcde")
+	)
+	(text "SW18 [SW_Push_45deg]  1:/COL6  2:Net-(D18-A)"
+		(exclude_from_sim no)
+		(at 15 163 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "8f75a00b-89fb-4c6d-910c-3679d77df3bd")
+	)
+	(text "Verify before editing/manufacturing; this is a connectivity reference, not a fully native component-symbol schematic."
+		(exclude_from_sim no)
+		(at 15 280 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "92916364-0468-46fb-809c-54eab6b7770a")
+	)
+	(text "J4 [Conn_01x04_Pin]  1:/SDA  2:/SCL  3:VCC  4:GND"
+		(exclude_from_sim no)
+		(at 15 109 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "92a2a27b-932c-4246-b9a4-2d460ad31d12")
+	)
+	(text "SW8 [SW_Push_45deg]  1:/COL2  2:Net-(D11-A)"
+		(exclude_from_sim no)
+		(at 15 133 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "96707008-5bcb-48b2-86e7-9d3000e961c5")
+	)
+	(text "Net-(D21-A): D21.2, SW22.2"
+		(exclude_from_sim no)
+		(at 220 112 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "98d77afc-9882-461e-a3a3-c3342a1a85f9")
+	)
+	(text "SW22 [SW_Push_45deg]  1:/COL4  2:Net-(D21-A)"
+		(exclude_from_sim no)
+		(at 15 175 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "9b6c1a76-1b9c-4196-8d84-c62fb818240c")
+	)
+	(text "/COL2: SW14.1, SW2.1, SW20.1, SW26.1, SW8.1, U1.16"
+		(exclude_from_sim no)
+		(at 220 28 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "9c4205c2-a862-4d31-a9d0-c0850004806e")
+	)
+	(text "D3 [D_Small]  1:/ROW1  2:Net-(D3-A)"
+		(exclude_from_sim no)
+		(at 15 31 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "aa27fa87-8342-4fcf-b2d0-6e90ea7719aa")
+	)
+	(text "unconnected-(U1-RAW-Pad24): U1.24"
+		(exclude_from_sim no)
+		(at 220 160 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "aa5b4ccc-70f6-49fe-8888-1d8cc1d72ced")
+	)
+	(text "D15 [D_Small]  1:/ROW3  2:Net-(D15-A)"
+		(exclude_from_sim no)
+		(at 15 67 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "adc4c45a-02d9-4520-8a58-ec6d4ecacb12")
+	)
+	(text "D10 [D_Small]  1:/ROW2  2:Net-(D10-A)"
+		(exclude_from_sim no)
+		(at 15 52 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "afe00b84-3b7a-49a0-a39f-930e2e058aff")
+	)
+	(text "D17 [D_Small]  1:/ROW3  2:Net-(D17-A)"
+		(exclude_from_sim no)
+		(at 15 73 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "b0554ea0-79da-4b6b-8679-ea7a775fcb14")
+	)
+	(text "D4 [D_Small]  1:/ROW1  2:Net-(D4-A)"
+		(exclude_from_sim no)
+		(at 15 34 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "b0c7b114-1218-4d25-9855-7f306189a78f")
+	)
+	(text "SW3 [SW_Push_45deg]  1:/COL3  2:Net-(D3-A)"
+		(exclude_from_sim no)
+		(at 15 118 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "b29488ea-0d05-4f6d-9e8b-d652d039fc01")
+	)
+	(text "D26 [D_Small]  1:/ROW5  2:Net-(D26-A)"
+		(exclude_from_sim no)
+		(at 15 100 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "b3309af4-06d0-4e17-b19c-c76464ae559f")
+	)
+	(text "unconnected-(U1-RST-Pad22): U1.22"
+		(exclude_from_sim no)
+		(at 220 163 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "b8255ebd-05c7-4507-8854-df6eab9a0963")
+	)
+	(text "SW6 [SW_Push_45deg]  1:/COL6  2:Net-(D6-A)"
+		(exclude_from_sim no)
+		(at 15 127 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "b8b384c9-13cc-4023-99a3-f4b4e803df22")
+	)
+	(text "Net-(D14-A): D14.2, SW14.2"
+		(exclude_from_sim no)
+		(at 220 88 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "b95f1bd7-bf56-408f-bda2-adaac57d2708")
+	)
+	(text "D16 [D_Small]  1:/ROW3  2:Net-(D16-A)"
+		(exclude_from_sim no)
+		(at 15 70 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "bbedaa08-5104-4d18-a30c-91e1f00127d9")
+	)
+	(text "D1 [D_Small]  1:/ROW1  2:Net-(D1-A)"
+		(exclude_from_sim no)
+		(at 15 25 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "bd2d3ed6-c76f-4cd3-b313-c2003eefe15e")
+	)
+	(text "Net-(D5-A): D5.2, SW5.2"
+		(exclude_from_sim no)
+		(at 220 139 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "bd770726-6a9b-4bd2-a83e-6514c6a39282")
+	)
+	(text "Generated from PCB pad net assignments. Original schematic graphics, symbol pin types, and sheet layout cannot be recovered from PCB data."
+		(exclude_from_sim no)
+		(at 15 275 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "bebb7aaf-bcd9-417f-aefe-89cc52ebf60b")
+	)
+	(text "/ROW3: D13.1, D14.1, D15.1, D16.1, D17.1, D18.1, U1.9"
+		(exclude_from_sim no)
+		(at 220 52 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "c10e7664-bab6-47ed-807e-ea2ba9e8589c")
+	)
+	(text "SW26 [SW_Push_45deg]  1:/COL2  2:Net-(D26-A)"
+		(exclude_from_sim no)
+		(at 15 187 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "c299919b-8c2c-4ab7-9c21-01cb0a8cdabc")
+	)
+	(text "D18 [D_Small]  1:/ROW3  2:Net-(D18-A)"
+		(exclude_from_sim no)
+		(at 15 76 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "c3a4a19e-43eb-42ea-820a-03e7ecc363cc")
+	)
+	(text "SW10 [SW_Push_45deg]  1:/COL4  2:Net-(D9-A)"
+		(exclude_from_sim no)
+		(at 15 139 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "c6c686f2-7f00-4331-a91a-ebf54b22f660")
+	)
+	(text "D5 [D_Small]  1:/ROW1  2:Net-(D5-A)"
+		(exclude_from_sim no)
+		(at 15 37 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "cbc8fa88-e7e7-4649-956d-91af777fd4f1")
+	)
+	(text "SW13 [SW_Push_45deg]  1:/COL1  2:Net-(D13-A)"
+		(exclude_from_sim no)
+		(at 15 148 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "cbf36cc1-e0a1-4177-9f6d-4462692d0733")
+	)
+	(text "SW2 [SW_Push_45deg]  1:/COL2  2:Net-(D2-A)"
+		(exclude_from_sim no)
+		(at 15 115 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "cd01ed99-ee0d-4be4-b0b9-f3f8e7b4d6f0")
+	)
+	(text "Net-(D12-A): D12.2, SW7.2"
+		(exclude_from_sim no)
+		(at 220 82 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "ce128160-00b7-47d0-a6f0-11ee1ed70d2b")
+	)
+	(text "D20 [D_Small]  1:/ROW4  2:Net-(D20-A)"
+		(exclude_from_sim no)
+		(at 15 82 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "ceb84bab-67f0-4058-92d3-6e42fbb9ebbb")
+	)
+	(text "Net-(D18-A): D18.2, SW18.2"
+		(exclude_from_sim no)
+		(at 220 100 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "cf29546a-e25d-43e8-8d59-2f34e635fcc0")
+	)
+	(text "Net-(D7-A): D7.2, SW12.2"
+		(exclude_from_sim no)
+		(at 220 145 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "d2509425-c7a6-41b6-906c-f731e9e6b5f4")
+	)
+	(text "SW27 [SW_Push_45deg]  1:/COL3  2:Net-(D27-A)"
+		(exclude_from_sim no)
+		(at 15 190 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "d952b880-b071-4744-bdf4-a6e06a444d16")
+	)
+	(text "/COL1: SW1.1, SW13.1, SW19.1, SW25.1, SW7.1, U1.15"
+		(exclude_from_sim no)
+		(at 220 25 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "dc3177ee-62ca-45ce-91f5-0234b6d0cd4b")
+	)
+	(text "D2 [D_Small]  1:/ROW1  2:Net-(D2-A)"
+		(exclude_from_sim no)
+		(at 15 28 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "ddbca48a-a359-42cc-bd7f-e0be1d420b1b")
+	)
+	(text "Net-(D8-A): D8.2, S11.2"
+		(exclude_from_sim no)
+		(at 220 148 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "ddbe4889-48fc-41ec-9487-d848964208b0")
+	)
+	(text "GND: J3.T, J4.4, U1.23, U1.3, U1.4"
+		(exclude_from_sim no)
+		(at 220 70 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "e045ef2d-9776-43ec-8ff5-2149ca2a22a6")
+	)
+	(text "Net-(D4-A): D4.2, SW4.2"
+		(exclude_from_sim no)
+		(at 220 136 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "e0b1b3ee-4d0c-41f8-9f86-a55d566051d2")
+	)
+	(text "Net-(D24-A): D24.2, SW19.2"
+		(exclude_from_sim no)
+		(at 220 121 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "e1200a25-3c02-42f0-9fde-5a9a3a962868")
+	)
+	(text "Net-(D23-A): D23.2, SW20.2"
+		(exclude_from_sim no)
+		(at 220 118 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "e3b8996e-c6b0-483e-99a0-19ebefd16324")
+	)
+	(text "SW1 [SW_Push_45deg]  1:/COL1  2:Net-(D1-A)"
+		(exclude_from_sim no)
+		(at 15 112 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "e6afd7b1-770f-4eaf-bad3-743268c0c349")
+	)
+	(text "Net-(D6-A): D6.2, SW6.2"
+		(exclude_from_sim no)
+		(at 220 142 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "e898df4b-15b4-41e3-9410-ba126a9da6fc")
+	)
+	(text "D25 [D_Small]  1:/ROW5  2:Net-(D25-A)"
+		(exclude_from_sim no)
+		(at 15 97 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "ee039b5d-e8c0-4d62-9734-c546d314acd6")
+	)
+	(text "D7 [D_Small]  1:/ROW2  2:Net-(D7-A)"
+		(exclude_from_sim no)
+		(at 15 43 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "eeaa0d05-d2c3-4080-94ab-c909abdbe17a")
+	)
+	(text "Net-(D9-A): D9.2, SW10.2"
+		(exclude_from_sim no)
+		(at 220 151 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "ef9fe91f-6a06-4d9a-94df-cca6b00a2e34")
+	)
+	(text "/SERIAL_TX: J3.R, U1.10"
+		(exclude_from_sim no)
+		(at 220 67 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "f302dfb7-50f3-4db7-9f3d-99818eec9303")
+	)
+	(text "J3 [AudioJack3]  R:/SERIAL_TX  S:VCC  T:GND"
+		(exclude_from_sim no)
+		(at 15 106 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "f718a79f-ab25-4866-898a-6802dc9b770b")
+	)
+	(text "D14 [D_Small]  1:/ROW3  2:Net-(D14-A)"
+		(exclude_from_sim no)
+		(at 15 64 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "fae78805-ff02-4697-8469-26007990314e")
+	)
+	(text "D13 [D_Small]  1:/ROW3  2:Net-(D13-A)"
+		(exclude_from_sim no)
+		(at 15 61 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "fd6aed90-9069-40da-adf5-e228cccdc04f")
+	)
+	(text "/ROW2: D10.1, D11.1, D12.1, D7.1, D8.1, D9.1, U1.8"
+		(exclude_from_sim no)
+		(at 220 49 0)
+		(effects
+			(font
+				(size 0.75 0.75)
+			)
+		)
+		(uuid "ff0174f1-301b-46e0-9ff4-a34795957af3")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

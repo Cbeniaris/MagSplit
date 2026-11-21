@@ -1,0 +1,10 @@
+# CAD and design files
+*.dxf
+*.FCStd
+*.FCBak
+
+# JSON files
+*.json
+
+# Gerber output folders
+gerbers/
