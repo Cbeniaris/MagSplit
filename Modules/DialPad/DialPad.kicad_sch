@@ -2706,6 +2706,10 @@
 		(uuid "2639ae50-3ca5-4f45-ab4a-76430089533e")
 	)
 	(no_connect
+		(at 71.12 59.69)
+		(uuid "34688b7c-cfaf-46a3-8fc9-e3de476fc1a6")
+	)
+	(no_connect
 		(at 26.67 41.91)
 		(uuid "7150e27f-3266-4c3a-8cd1-c6cde081a9c5")
 	)
@@ -2716,10 +2720,6 @@
 	(no_connect
 		(at 26.67 44.45)
 		(uuid "9027d5f6-b659-4a4f-93ce-77a35cc6ae56")
-	)
-	(no_connect
-		(at 71.12 52.07)
-		(uuid "91f2c2d7-0eb0-42df-8d07-ee7f251e41c1")
 	)
 	(no_connect
 		(at 71.12 31.75)
@@ -3329,16 +3329,6 @@
 		)
 		(uuid "03034f8c-dcee-4598-b970-2bc96f732be0")
 	)
-	(label "ENC_A"
-		(at 71.12 57.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0b2b73bb-20bf-4c6a-955d-c494bcc81b64")
-	)
 	(label "KEY2"
 		(at 26.67 46.99 180)
 		(effects
@@ -3359,16 +3349,6 @@
 		)
 		(uuid "10390d56-8cf9-4248-a89a-23ef4454bf6f")
 	)
-	(label "ENC_B"
-		(at 71.12 59.69 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1c49b2e4-6a7d-456c-b1d9-11e1a5c24de3")
-	)
 	(label "LAYER2"
 		(at 71.12 46.99 0)
 		(effects
@@ -3378,6 +3358,16 @@
 			(justify left bottom)
 		)
 		(uuid "1d17651c-fc7c-41d3-a4f1-669a312f7ba7")
+	)
+	(label "ENC_SW"
+		(at 71.12 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2170d27b-1172-4071-8685-02bbc7c7c349")
 	)
 	(label "L4_RESISTOR"
 		(at 71.12 171.45 0)
@@ -3499,6 +3489,16 @@
 		)
 		(uuid "644f896c-c991-4e9e-81b8-771cedfe7b11")
 	)
+	(label "ENC_B"
+		(at 71.12 54.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6baeb538-d8d8-4ca3-8384-ad62ab9ed81b")
+	)
 	(label "GND"
 		(at 115.57 29.21 180)
 		(effects
@@ -3558,16 +3558,6 @@
 			(justify left bottom)
 		)
 		(uuid "b02b401b-c647-482b-bd30-e1ad0ceaa375")
-	)
-	(label "ENC_SW"
-		(at 71.12 54.61 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b9bed04e-61f2-47e0-94cc-0ccb74a69bbc")
 	)
 	(label "KEY1"
 		(at 24.13 91.44 0)
@@ -3668,6 +3658,16 @@
 			(justify left bottom)
 		)
 		(uuid "dca6c7ba-ff68-45c2-be7f-c385d44231bf")
+	)
+	(label "ENC_A"
+		(at 71.12 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "de8c887b-02e7-40cd-8681-eefe991b16b1")
 	)
 	(label "LAYER3"
 		(at 26.67 52.07 180)
