@@ -11,7 +11,7 @@ THERE IS NO BACK FEED PROTECTION FOR THE 5V RAIL.  You can plug in the usb and c
 | Component | Part Number |
 | --- | --- |
 | Micro | Any ATmega32ur pro micro |
-| 3 pin TRS Jack | *PART NUMBER HERE* |
+| 3 pin TRS Jack | HC-PJ-320A-3P-D |
 | Load Switch | TPS2552DBV (SOT-23-6, not WSON)|
 | ESD protection | USBLC6-2SC6 |
 | Switches | Any Cherry switches |
