@@ -9,6 +9,7 @@ THERE IS NO BACK FEED PROTECTION FOR THE 5V RAIL.  You can plug in the usb and c
 
 ## Materials
 | Component | Part Number |
+| --- | --- |
 | Micro | Any ATmega32ur pro micro |
 | 3 pin TRS Jack | *PART NUMBER HERE* |
 | Load Switch | TPS2552DBV (SOT-23-6, not WSON)|
@@ -18,4 +19,4 @@ THERE IS NO BACK FEED PROTECTION FOR THE 5V RAIL.  You can plug in the usb and c
 | Caps / Resistors | 0805 smd variants |
 | Magnetic connectors | 2.54mm pitch from AliExpress|
 | Oled Socket | 2.54mm pitch female socket|
-| Oled Modules | Hosyond 0.96" I2C Oled Display | 
+| Oled Modules | Hosyond 0.96" I2C Oled Display |
