@@ -3339,7 +3339,7 @@
 		)
 		(uuid "1008678b-110a-4afe-ae95-1bc362dc8d43")
 	)
-	(label "LAYER1"
+	(label "LAYER2"
 		(at 71.12 49.53 0)
 		(effects
 			(font
@@ -3349,7 +3349,7 @@
 		)
 		(uuid "10390d56-8cf9-4248-a89a-23ef4454bf6f")
 	)
-	(label "LAYER2"
+	(label "LAYER1"
 		(at 71.12 46.99 0)
 		(effects
 			(font
@@ -3449,7 +3449,7 @@
 		)
 		(uuid "548160eb-3568-4197-a722-b896a27df4b5")
 	)
-	(label "LAYER4"
+	(label "LAYER3"
 		(at 26.67 54.61 180)
 		(effects
 			(font
@@ -3669,7 +3669,7 @@
 		)
 		(uuid "de8c887b-02e7-40cd-8681-eefe991b16b1")
 	)
-	(label "LAYER3"
+	(label "LAYER4"
 		(at 26.67 52.07 180)
 		(effects
 			(font
