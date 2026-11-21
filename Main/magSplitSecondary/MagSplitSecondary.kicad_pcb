@@ -141,9 +141,9 @@
 				)
 			)
 		)
-		(path "/d7f474f7-0e0b-4009-89b5-2d8d9c8c970e")
+		(path "/c4fc54e0-d9dd-44f3-9f9b-52aa2d93837d")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -433,9 +433,9 @@
 				)
 			)
 		)
-		(path "/d30c467b-fea7-467b-808f-34bcdabad1c1")
+		(path "/f8987ae9-7b83-4fc8-b2e7-c65caa832cfe")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -720,9 +720,9 @@
 			)
 		)
 		(property ki_fp_filters "Jack*")
-		(path "/e43005e5-f1f5-4cef-a04d-b9e078b02116")
+		(path "/260b288a-6fb1-4629-9d12-bcd7b7cf42ff")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -966,9 +966,9 @@
 				)
 			)
 		)
-		(path "/94a06e64-fffc-41f6-8b9f-c5ff6f91d14e")
+		(path "/c4064082-e7c6-4717-9b34-d4537daf6827")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1258,9 +1258,9 @@
 				)
 			)
 		)
-		(path "/24b2543b-61d2-4fc3-9e6f-78e9ed91ee04")
+		(path "/5c8b5251-f108-4e94-a302-f03c0ba062cd")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1550,9 +1550,9 @@
 				)
 			)
 		)
-		(path "/32a61c48-9d96-4952-980a-7de200b8fa59")
+		(path "/c6f5dda9-1274-412b-8251-8308705e2d09")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1842,9 +1842,9 @@
 				)
 			)
 		)
-		(path "/74b11947-d170-4a40-9b61-8d7577b96623")
+		(path "/bfac2860-835d-422e-a4c9-8cd8d3a7be44")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2134,9 +2134,9 @@
 				)
 			)
 		)
-		(path "/3d872759-ce95-4ceb-84aa-983e6ea760ba")
+		(path "/20c0e5e8-6d8c-4bed-aaae-21fe95dc6563")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2426,9 +2426,9 @@
 				)
 			)
 		)
-		(path "/f0183cf0-e8a7-4495-95f3-8309c312770a")
+		(path "/fbecabcf-3862-4a48-804e-5b5022152bdb")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2718,9 +2718,9 @@
 				)
 			)
 		)
-		(path "/b199f125-329d-4d6a-871e-3f6cfc8aadb0")
+		(path "/c1e6a9ae-a267-4781-805d-90a0f08efbd3")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3019,9 +3019,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/7ca9f246-2991-4e4a-af8c-63b6c9a6d3ab")
+		(path "/664da8bd-fb0a-4acb-b26a-7da1214ea858")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3302,9 +3302,9 @@
 				)
 			)
 		)
-		(path "/65e9ea01-899e-46e4-8eca-7bc727e6a9b9")
+		(path "/b984052d-d89c-49e9-aa13-48845fa264d8")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3588,9 +3588,9 @@
 				)
 			)
 		)
-		(path "/e2fa4e3e-523e-431e-aa84-92852ea3f853")
+		(path "/9a63ea75-dc66-4a5f-8e13-0f02aeea9cbd")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3897,7 +3897,7 @@
 			(drill 0.762)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "VCC")
+			(net "unconnected-(U1-VCC-Pad21)")
 			(pinfunction "VCC_21")
 			(pintype "power_in")
 			(uuid "b13f8c7d-3936-42d0-96a0-fa25ccfe4bd0")
@@ -3919,7 +3919,7 @@
 			(drill 0.762)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "GND")
+			(net "unconnected-(U1-GND-Pad23)")
 			(pinfunction "GND_23")
 			(pintype "power_in")
 			(uuid "1301e821-9ec1-432f-b0c3-696c572d1c72")
@@ -3991,9 +3991,9 @@
 				)
 			)
 		)
-		(path "/13f87e6e-7e02-43d1-a25f-9aa191a10b63")
+		(path "/cb792091-e528-4914-9d0a-5eaed7e62bbf")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4283,9 +4283,9 @@
 				)
 			)
 		)
-		(path "/385cdaaa-0625-4fab-a7ff-91f43117be49")
+		(path "/7759e0bc-464c-4ab8-8522-dcd7eededbc8")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4575,9 +4575,9 @@
 				)
 			)
 		)
-		(path "/51dfef95-72cc-448e-bcf0-b33245c9c9e9")
+		(path "/863b4e9a-8f85-4c46-a6a2-1d33055248e4")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4867,9 +4867,9 @@
 				)
 			)
 		)
-		(path "/d323bbf9-af6b-48f3-940b-609a62484ef3")
+		(path "/89c65e36-aebe-4927-9a40-1c954d1156ce")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5159,9 +5159,9 @@
 				)
 			)
 		)
-		(path "/3613cd1d-9390-4827-bdce-a651c4f05ef4")
+		(path "/77d98451-6e76-483a-8f06-8681a16aea21")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5451,9 +5451,9 @@
 				)
 			)
 		)
-		(path "/3f0721a4-c8aa-4ac3-91ff-c64c2d04f1b9")
+		(path "/690f3231-1d54-4cd8-bfd2-5f72a42e007f")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5743,9 +5743,9 @@
 				)
 			)
 		)
-		(path "/4928af97-fba0-4d68-8258-4260363d9b47")
+		(path "/e253fcb0-d44f-4f14-9669-9ca8b62d112a")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6035,9 +6035,9 @@
 				)
 			)
 		)
-		(path "/5902b988-2753-410d-9cf4-5d759e602b2a")
+		(path "/a4dd120c-6c60-447d-9840-b5990069614d")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6327,9 +6327,9 @@
 				)
 			)
 		)
-		(path "/ba3fbcc8-a76e-493f-868f-96535b4afa67")
+		(path "/7884c534-4ecd-4ef0-89eb-f27a2c76e3c1")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6619,9 +6619,9 @@
 				)
 			)
 		)
-		(path "/04ac0b95-a430-405d-9f56-f48f8f0c0957")
+		(path "/48ab084f-7168-49b4-a274-156551591aca")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6911,9 +6911,9 @@
 				)
 			)
 		)
-		(path "/bb890847-8c37-455c-807b-e014a5fec22a")
+		(path "/3f33e464-1989-4b28-9bc9-8077a14dcb45")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7203,9 +7203,9 @@
 				)
 			)
 		)
-		(path "/cb154f3d-e42d-48eb-b044-9bb040fae64a")
+		(path "/b573bd89-eb66-4d16-9030-0123ceef7c3c")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7495,9 +7495,9 @@
 				)
 			)
 		)
-		(path "/ab1160bb-7b97-47f6-a82f-4774a4f3be67")
+		(path "/c3fc17fb-b860-49ee-8e00-468c93159292")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7787,9 +7787,9 @@
 				)
 			)
 		)
-		(path "/cbc55658-db4d-4ee5-b346-c1030b8fe79b")
+		(path "/62e31c29-c149-42bf-be17-e9da412e310f")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8079,9 +8079,9 @@
 				)
 			)
 		)
-		(path "/c0c02cbc-e11c-4e8d-8579-688c1bdb78a8")
+		(path "/a5971559-db79-4c9f-8c2a-657752e65318")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8371,9 +8371,9 @@
 				)
 			)
 		)
-		(path "/66d3a026-e0d4-4cfd-941d-1018a6f17927")
+		(path "/6e883c49-9fe2-4c0a-9c85-1c0d4cb95fa5")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8663,9 +8663,9 @@
 				)
 			)
 		)
-		(path "/8e4c73e1-ec91-405d-86bd-98112689b28b")
+		(path "/5a91a697-52c7-46f5-835c-9dd190b35245")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8988,9 +8988,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/2c2cecd1-d334-4049-88e0-a461ace300b1")
+		(path "/56587f8f-e80f-4f32-94fb-a1d5010486a0")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9311,9 +9311,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/cfd257b8-5192-4015-a9ea-ca47d645ce5b")
+		(path "/7ee0b6d1-a0de-4f39-aae2-99edab5b1282")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9634,9 +9634,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/01e32ddc-67b1-480d-a040-4c2bec5e1141")
+		(path "/93edbf12-cc62-4177-a6bb-8f2b8fdfa07c")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9957,9 +9957,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/ccbfe66a-a4c0-4716-b913-ceb530d9714c")
+		(path "/f7d10bb5-e6ee-4ddf-9fb8-aa9bd5000c6d")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10280,9 +10280,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/76bf86a7-4cbe-44ad-8ad7-5d0b3b64eef1")
+		(path "/77eb8c08-f16a-494d-a7aa-dd961ad31b57")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10603,9 +10603,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/2645bd12-ddfe-46b3-a46d-8162d3314be4")
+		(path "/72dbd775-d231-46f4-8235-29173d66e720")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10926,9 +10926,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/19388365-0b2d-43ad-9691-6b6cfd8bf431")
+		(path "/3cb8a780-db12-4246-bf45-72dc424e3f45")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11249,9 +11249,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/e199d78a-4eed-47e6-a5ee-b41242a44b45")
+		(path "/e0419879-158f-4de9-bbe9-20c6fe5daa00")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11572,9 +11572,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/8d22ac46-3848-4698-92d4-bcc964e198e7")
+		(path "/f1d5951f-ef35-4ba3-85f2-13f8e7a12625")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11895,9 +11895,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/43f17f2a-a35c-452e-b96d-c42731670154")
+		(path "/8e85cc79-e1ee-48b8-bba8-c6551e347089")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12218,9 +12218,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/e08a101b-b65c-4ebf-91f4-45f49163a070")
+		(path "/eab65f12-230f-4b73-aacb-d858aa0a6023")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12541,9 +12541,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/174c9b42-0371-4d4f-a561-66333beb5fb7")
+		(path "/6b452c26-0b64-4ae9-a282-459e06d6585a")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12864,9 +12864,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/095448cd-ccf1-4fda-9e46-c304332c8f35")
+		(path "/79f1d4e0-1efd-4ca3-be2e-031d5cb08f0f")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13187,9 +13187,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/ba0dead2-4fd5-4af0-897e-56fd879ce84e")
+		(path "/205afc9b-0fb2-4142-80c4-8b300517fb15")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13510,9 +13510,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/d0b4f369-0ba3-469b-92da-bdddadcd07e6")
+		(path "/e591b089-54de-48ac-8eb2-f2e73f584e1d")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -13833,9 +13833,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/bfb69e89-5a2c-4f47-a5e7-a62319d6c347")
+		(path "/2714280a-0e77-4581-92c8-ff4983e19512")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14156,9 +14156,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/1d8e2d34-522f-4267-bddc-3cbb5f586363")
+		(path "/18f467c4-10cc-4e89-9744-361638bb9071")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14479,9 +14479,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/e647b838-275a-4378-989e-dfc5fc793cdf")
+		(path "/76277c96-4280-4db5-9098-3568b2e6d033")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -14802,9 +14802,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/1fcf6377-a0be-4ee7-86fb-2fee0a66efd2")
+		(path "/19ff8e37-28f2-46af-aacc-a87e9cab77d4")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15125,9 +15125,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/5f876a80-b9fb-44a5-a4a0-af26ef2da884")
+		(path "/c76804b0-d694-45da-8aa4-d6f4c5620245")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15448,9 +15448,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/072e174d-403f-4a91-9d1c-35e5f02964ef")
+		(path "/9c1cd354-a0f1-432f-a166-07346bf1679f")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15771,9 +15771,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/e4e4a8a6-438a-466e-961c-fab72499384d")
+		(path "/3e64fe26-5500-4784-91de-c410de1ce968")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16094,9 +16094,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/e9037aea-513d-4d7c-8cbd-ee1563823ed3")
+		(path "/6a7f78d0-7a09-4d92-b628-027fabdb3e91")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16417,9 +16417,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/ff268515-d20e-4e0e-b0bc-1359233cf6b6")
+		(path "/a6bfe826-d2cc-4f89-81d4-ee29d73ef4ef")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16740,9 +16740,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/ffd38b8d-b52c-4296-b1df-3dcb93270ef7")
+		(path "/55ea7475-dcfb-4327-b027-d7da27d6c12f")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17063,9 +17063,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/de301d22-307c-4e90-9018-35b0d57c588f")
+		(path "/aebda195-55d4-4c68-8a65-b362624a9edf")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17386,9 +17386,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/a15ee413-2ef0-4250-9c0d-e8a9c0594537")
+		(path "/c7a45dea-1928-4381-9785-cdffa5b85f05")
 		(sheetname "/")
-		(sheetfile "PolaritySecondary.kicad_sch")
+		(sheetfile "MagSplitSecondary.kicad_sch")
 		(units
 			(unit
 				(name "A")
