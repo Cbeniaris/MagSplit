@@ -3,8 +3,5 @@
 *.FCStd
 *.FCBak
 
-# JSON files
-*.json
-
 # Gerber output folders
 gerbers/
