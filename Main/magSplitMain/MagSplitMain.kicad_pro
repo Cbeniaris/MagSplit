@@ -662,13 +662,18 @@
       {
         "filename": "MagSplitMain.kicad_sch",
         "name": "MagSplitMain",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
       }
     ],
     "used_designators": "",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "e979a052-5be2-4eb0-9b0d-b458a63e3a1c",
+      "MagSplitMain"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {

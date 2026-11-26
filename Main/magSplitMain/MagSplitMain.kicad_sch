@@ -5341,7 +5341,7 @@
 			(uuid "15887ff9-f444-4485-a6e9-eb776ccf0426")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D10")
 					(unit 1)
@@ -5446,7 +5446,7 @@
 			(uuid "8fbf0721-fe01-49d2-b312-36bea23726e6")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D22")
 					(unit 1)
@@ -5551,7 +5551,7 @@
 			(uuid "99a5b9ac-1444-49ad-8fac-6ce4407ba4c4")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D5")
 					(unit 1)
@@ -5631,7 +5631,7 @@
 			(uuid "2e8dc630-d8b3-44a1-ac94-07d7ad2fea30")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW13")
 					(unit 1)
@@ -5711,7 +5711,7 @@
 			(uuid "2db7431d-dd3e-4b71-be2a-59571457fbfc")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "C1")
 					(unit 1)
@@ -5794,7 +5794,7 @@
 			(uuid "7e27afac-182f-450c-b8b4-09cf5a3591c8")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "J3")
 					(unit 1)
@@ -5899,7 +5899,7 @@
 			(uuid "88735286-0eac-443a-b0e7-3b78c9179bbf")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D26")
 					(unit 1)
@@ -5977,7 +5977,7 @@
 			(uuid "2f67a444-9e31-4566-8855-fc856e37686d")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "#PWR04")
 					(unit 1)
@@ -6055,7 +6055,7 @@
 			(uuid "a77c6bc8-376c-4c65-a612-cf04db676f2c")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "#PWR013")
 					(unit 1)
@@ -6133,7 +6133,7 @@
 			(uuid "754fae0c-8911-4f0b-bf01-0aa5826bcf40")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "#PWR09")
 					(unit 1)
@@ -6212,7 +6212,7 @@
 			(uuid "73d634dc-3430-4818-b610-4ff81dbbd0ac")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "#PWR015")
 					(unit 1)
@@ -6290,7 +6290,7 @@
 			(uuid "993da846-f4d5-485b-8a90-bcfa9dfdced7")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "#PWR014")
 					(unit 1)
@@ -6395,7 +6395,7 @@
 			(uuid "652c6176-3c4a-4db0-8308-a27e90e9661d")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D11")
 					(unit 1)
@@ -6500,7 +6500,7 @@
 			(uuid "bd9f7cfa-e347-4bda-9810-afbaf91cd8fa")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D2")
 					(unit 1)
@@ -6580,7 +6580,7 @@
 			(uuid "6ac453b1-dab5-47f4-9306-b3822098c38c")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW3")
 					(unit 1)
@@ -6674,7 +6674,7 @@
 			(uuid "854abc13-8de4-4c52-90a3-3c18c2053a15")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "U5")
 					(unit 1)
@@ -6752,7 +6752,7 @@
 			(uuid "dea54012-996d-4a79-911b-64999f7aa293")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "#PWR017")
 					(unit 1)
@@ -6832,7 +6832,7 @@
 			(uuid "12ff7a92-7874-4e1c-9cfd-3188b779a1e7")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW19")
 					(unit 1)
@@ -6937,7 +6937,7 @@
 			(uuid "e9349594-976e-4910-a5ea-8c53b476996e")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D16")
 					(unit 1)
@@ -7042,7 +7042,7 @@
 			(uuid "0b16bc3b-99eb-4607-a11c-beb76d62090c")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D4")
 					(unit 1)
@@ -7122,7 +7122,7 @@
 			(uuid "b5d7856d-9011-43ef-9fa4-bfd906eac4a3")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW22")
 					(unit 1)
@@ -7202,7 +7202,7 @@
 			(uuid "ce0646aa-85d7-4fd3-b943-bc7c5d5d895f")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW24")
 					(unit 1)
@@ -7280,7 +7280,7 @@
 			(uuid "f7e444f0-3beb-4633-a397-9fbca22dffb3")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "#PWR011")
 					(unit 1)
@@ -7360,7 +7360,7 @@
 			(uuid "a78e9904-8231-48db-8132-7c60c026cc52")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW23")
 					(unit 1)
@@ -7446,7 +7446,7 @@
 			(uuid "3f1381e1-a82b-4e4f-b460-780172df2a45")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "J4")
 					(unit 1)
@@ -7526,7 +7526,7 @@
 			(uuid "68299248-df57-40e1-80b6-b50c3c5b9ca3")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW1")
 					(unit 1)
@@ -7631,7 +7631,7 @@
 			(uuid "f2781f8c-dae9-47c2-854f-a78b846e711d")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D24")
 					(unit 1)
@@ -7736,7 +7736,7 @@
 			(uuid "202ff7d7-45a8-412e-8c79-ba82c2380351")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D7")
 					(unit 1)
@@ -7816,7 +7816,7 @@
 			(uuid "82de36f4-3831-40df-bbbb-4434432295d2")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW26")
 					(unit 1)
@@ -7921,7 +7921,7 @@
 			(uuid "2d2d3103-b078-4a66-8da4-71ce39076968")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D1")
 					(unit 1)
@@ -8026,7 +8026,7 @@
 			(uuid "db4ecf25-4a97-426a-aa9f-193e46dcf6f6")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D23")
 					(unit 1)
@@ -8106,7 +8106,7 @@
 			(uuid "763c8599-d4cd-4c9c-a0e2-efe0a97755c1")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW27")
 					(unit 1)
@@ -8186,7 +8186,7 @@
 			(uuid "8128c120-fbd2-431a-b426-461668bc50de")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "S11")
 					(unit 1)
@@ -8291,7 +8291,7 @@
 			(uuid "3f763021-647a-45ef-8ca1-b79c2966e87c")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D18")
 					(unit 1)
@@ -8371,7 +8371,7 @@
 			(uuid "9501861f-5a94-4e40-b7ec-8d9b41119415")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW18")
 					(unit 1)
@@ -8476,7 +8476,7 @@
 			(uuid "cfa3b519-c384-42d9-9bef-6e1b21e89549")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D9")
 					(unit 1)
@@ -8581,7 +8581,7 @@
 			(uuid "cb9c6e52-a435-47c5-89f3-9d0a21d0a7ef")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D17")
 					(unit 1)
@@ -8661,7 +8661,7 @@
 			(uuid "c70d6e76-34a1-448a-984a-e22a36b65c72")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW21")
 					(unit 1)
@@ -8741,7 +8741,7 @@
 			(uuid "1d95d5f8-7e34-41d2-8ab6-d91c1f2f85fa")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW12")
 					(unit 1)
@@ -8829,7 +8829,7 @@
 			(uuid "f22a6f88-86a2-4544-9c11-f031f91b88ed")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "J2")
 					(unit 1)
@@ -8934,7 +8934,7 @@
 			(uuid "82854a78-aa0e-418e-b599-c2301224317f")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D14")
 					(unit 1)
@@ -9039,7 +9039,7 @@
 			(uuid "2223240d-6f03-4fef-bce9-8bba2520d87a")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D15")
 					(unit 1)
@@ -9185,7 +9185,7 @@
 			(uuid "88ec2a26-f483-44db-b908-0354eb4fd374")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "U1")
 					(unit 1)
@@ -9290,7 +9290,7 @@
 			(uuid "fb70f1ce-4ba7-4962-bd76-2ead3f1a70e7")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D13")
 					(unit 1)
@@ -9370,7 +9370,7 @@
 			(uuid "9dee1ffa-a55c-4562-a537-a4370028ac72")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW20")
 					(unit 1)
@@ -9448,7 +9448,7 @@
 			(uuid "5c12504c-d6e8-4d51-b1a0-5710c629e384")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "#PWR08")
 					(unit 1)
@@ -9528,7 +9528,7 @@
 			(uuid "d7529185-4b8e-4888-bf58-cff5e52fb878")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW5")
 					(unit 1)
@@ -9633,7 +9633,7 @@
 			(uuid "ae9b4b1f-5c3c-4d79-9f9e-fa2900242ce6")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D25")
 					(unit 1)
@@ -9711,7 +9711,7 @@
 			(uuid "a60703ca-45ad-407d-8f38-064d6f02a027")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "#PWR012")
 					(unit 1)
@@ -9816,7 +9816,7 @@
 			(uuid "46b3c508-8bd6-4013-a1a1-ff7bd1942c13")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D6")
 					(unit 1)
@@ -9896,7 +9896,7 @@
 			(uuid "b51dd8fe-14a8-4808-b3ce-371c5aafbf52")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW14")
 					(unit 1)
@@ -9976,7 +9976,7 @@
 			(uuid "01489467-a882-4dca-91ae-e3154be70913")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW17")
 					(unit 1)
@@ -10054,7 +10054,7 @@
 			(uuid "53e6b793-0e91-4407-9f4c-943db720cf92")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "#PWR010")
 					(unit 1)
@@ -10134,7 +10134,7 @@
 			(uuid "ecf866d1-c15a-4a79-80d7-86991343aa42")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW10")
 					(unit 1)
@@ -10214,7 +10214,7 @@
 			(uuid "e4fa3e35-8247-4083-85a4-fb09905ca492")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW16")
 					(unit 1)
@@ -10293,7 +10293,7 @@
 			(uuid "c3c76a5f-4d95-4a27-a4f1-a3d888cc7c85")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "TP1")
 					(unit 1)
@@ -10373,7 +10373,7 @@
 			(uuid "e95bf186-2518-44fa-b44d-d40f620f0091")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW15")
 					(unit 1)
@@ -10453,7 +10453,7 @@
 			(uuid "a7a09628-04a1-4c86-a86c-b2d282d285d8")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW2")
 					(unit 1)
@@ -10533,7 +10533,7 @@
 			(uuid "004b362b-2bad-4baa-a393-21fbcb2d0acf")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW7")
 					(unit 1)
@@ -10613,7 +10613,7 @@
 			(uuid "db760efc-9eb9-4edb-a70e-f804bed96318")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "R1")
 					(unit 1)
@@ -10693,7 +10693,7 @@
 			(uuid "854c4b3c-9bdf-4f47-b0ec-7a0e7cd6275f")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW9")
 					(unit 1)
@@ -10798,7 +10798,7 @@
 			(uuid "bdc93ef5-b8f7-4185-86d7-2d7a82692981")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D19")
 					(unit 1)
@@ -10903,7 +10903,7 @@
 			(uuid "f0b98bd1-72d6-47d1-91e2-15e5c8384f11")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D20")
 					(unit 1)
@@ -11000,7 +11000,7 @@
 			(uuid "a0328038-2704-4f3d-b371-855ab9c27622")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "U3")
 					(unit 1)
@@ -11080,7 +11080,7 @@
 			(uuid "56cd5e43-b164-431d-bb6f-4e4832387383")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW6")
 					(unit 1)
@@ -11158,7 +11158,7 @@
 			(uuid "c11df853-6a9e-4b69-96d8-04d736c32e99")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "#PWR016")
 					(unit 1)
@@ -11263,7 +11263,7 @@
 			(uuid "ae895d49-0421-4cfb-aa9a-2bc7208d88f2")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D21")
 					(unit 1)
@@ -11343,7 +11343,7 @@
 			(uuid "4153190b-b5ee-420c-945b-4a7b48b397de")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW25")
 					(unit 1)
@@ -11448,7 +11448,7 @@
 			(uuid "14cf43d4-e0cd-4e7d-87b5-b8609b22b5e0")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D8")
 					(unit 1)
@@ -11553,7 +11553,7 @@
 			(uuid "bdc155a3-1bf1-4abd-ad71-a332fa90ccea")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D12")
 					(unit 1)
@@ -11658,7 +11658,7 @@
 			(uuid "d16f959c-e60b-46e6-a44c-3dc3f12dcd54")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D3")
 					(unit 1)
@@ -11763,7 +11763,7 @@
 			(uuid "3b874524-9fd0-4c9e-828c-fbac2a8fc27f")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "D27")
 					(unit 1)
@@ -11843,7 +11843,7 @@
 			(uuid "ac50e6bd-a8f8-4e72-a6ad-30b5735fc468")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW8")
 					(unit 1)
@@ -11923,7 +11923,7 @@
 			(uuid "7d6176d0-9541-4279-93cd-a2127a703d3e")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "R2")
 					(unit 1)
@@ -12003,7 +12003,7 @@
 			(uuid "aea890bf-17de-4288-8812-d25f82e269b0")
 		)
 		(instances
-			(project "PolarityMain"
+			(project "MagSplitMain"
 				(path "/e979a052-5be2-4eb0-9b0d-b458a63e3a1c"
 					(reference "SW4")
 					(unit 1)
