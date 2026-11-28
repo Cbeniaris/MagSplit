@@ -1,8 +1,8 @@
-# magsplit_macropad
+# magsplit_dial
 
-![magsplit_macropad](imgur.com image replace me!)
+![magsplit_dial](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+Module attachment for MagSplit featuring a rotary encoder, 4 switches, and 4 leds to display selected profile.
 
 * Keyboard Maintainer: [Constantine Beniaris](https://github.com/cbeniaris)
 * Hardware Supported: *The PCBs, controllers supported*

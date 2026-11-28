@@ -20,3 +20,20 @@ THERE IS NO BACK FEED PROTECTION FOR THE 5V RAIL.  You can plug in the usb and c
 | Magnetic connectors | 2.54mm pitch from AliExpress|
 | Oled Socket | 2.54mm pitch female socket|
 | Oled Modules | Hosyond 0.96" I2C Oled Display |
+
+## Compiling / Flashing
+
+### Compiling
+Firmware can be cloned and compiled using qmk or downloaded directly from the releases.
+
+```bash
+qmk compile -kb magsplit -km default
+```
+
+### Flashing
+
+Flasing is done by putting the microcontroller into bootloader mode and using the qmk cli
+
+```bash
+qmk flash -kb magsplit -km default
+```
